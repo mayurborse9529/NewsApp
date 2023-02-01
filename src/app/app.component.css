@@ -1,0 +1,24 @@
+.navbar{
+    background-color:white;
+    box-shadow: 10px 10px 10px gray;
+}
+.nav-link{
+    color: black;
+    font-size: 25px;
+    border: 1px solid grey;
+    /* background-color: silver; */
+}
+.nav-link:hover{
+    /* background-color: rosybrown; */
+    color:rgb(227, 25, 25);
+    background-color: whitesmoke;
+}
+span{
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    color: white;
+}
+.me-4{
+    font-size: 25px;
+}
