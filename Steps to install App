@@ -1,0 +1,3 @@
+Cd newsapp
+npm i
+ng serve -o
