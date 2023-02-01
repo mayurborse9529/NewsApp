@@ -1,5 +1,5 @@
 # Steps to install App
- cd newsapp
+ cd newsapp 
  npm i
 # how to run app
 ng serve -o
